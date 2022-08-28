@@ -14,7 +14,7 @@ O projeto visa construir um circuito no arduino onde vamos estar lendo dados do 
 ![Imgur Image](https://imgur.com/IhqYB30.jpg)
 
 
-# Comno funciona?
+# Como funciona?
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/KxMoHsy086M/0.jpg)
 
 http://www.youtube.com/watch?v=KxMoHsy086M
